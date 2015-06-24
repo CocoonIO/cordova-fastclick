@@ -1,0 +1,2 @@
+# fastclick
+Cordova Fastclick Plugin
